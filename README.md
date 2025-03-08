@@ -22,7 +22,7 @@
 # Структура репозитория
 
 В репозитории находятся два каталога:
-* `lib` - в этом каталоге находятся библиотеки, применённые в проекте
-* `GreenhouseController` - каталог с исходным кодом проекта
+* [lib](https://github.com/Greengaraj/Greenhouse-controller/tree/master/lib) - в этом каталоге находятся библиотеки, применённые в проекте
+* [GreenhouseController](https://github.com/Greengaraj/Greenhouse-controller/tree/master/GreenhouseController) - каталог с исходным кодом проекта
 
 Перед загрузкой скетча в память платы, убедитесь в наличие используемых библиотек на вашем компьютере.
